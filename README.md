@@ -26,4 +26,4 @@ Este é um sistema simples, desenvolvido em Python, que permite ao usuário inse
 2. Certifique-se de ter o Python instalado.
 3. Execute o arquivo Python no terminal:
    ```bash
-   python nome_do_arquivo.py
+   python main.py

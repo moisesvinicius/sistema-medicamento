@@ -6,7 +6,7 @@ Olá, pessoal! Faz 3 dias que fiquei doente, fui ao médico e ele me passou um m
 
 Este é um sistema simples, desenvolvido em Python, que permite ao usuário inserir a hora em que tomou o remédio e o intervalo até a próxima dose. O resultado é exibido na tela, tornando a gestão dos horários de medicação mais fácil e prática.
 
-![Screenshot do Sistema](link_da_imagem_aqui)
+![Screenshot do Sistema](img.png)
 
 ## Funcionalidades ✅
 
